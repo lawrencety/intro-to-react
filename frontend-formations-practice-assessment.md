@@ -9,47 +9,47 @@ No cheating! Be open and honest about what you know.
 # Practice Questions
 
 1. Which HTML 5 tag would you use for semantically correctly wrap your page navigation?  
-  Answer: 
+  **Answer:** 
 
 2. What is the difference between a `<div>` and a `<span>` in HTML?  
-  Answer: 
+  **Answer:** 
 
 3. What is wrong in the following HTML?
   ```html
   <div class="someClass" id="someID"></div>
   <div class="someClass" id="someID"></div>
   ```
-  Answer: 
+  **Answer:** 
 
 4. How would you create a new folder named `testFolder` with the command line?  
-  Answer: ``
+  **Answer:** `command`
 
 5. How would you enter this folder?  
-  Answer: ``
+  **Answer:** `command`
 
 6. Given you are now in this folder, how would you check if git has already been initialized in that folder?  
-  Answer: ``
+  **Answer:** `command`
 
 7. If git has not yet been added to that folder, how would you add it?  
-  Answer: ``
+   **Answer:** `command`
 
 8. Which industry vertical are you interested in and why?  
-  Answer: ``
+   **Answer:** 
 
 9. Using Javascript, please write a function foo, that takes two arguments, an array and a number, and returns true if the length of the array is equal to the second argument? E.g. `foo([1, 2, 3], 3)` would return true.  
-  Answer:
+  **Answer:**  
   ```javascript
   // your code here
   ```
 
 10. Write a loop in Javascript, iterating over the array [1, 2, 3, 4] printing out if the element is eiter the first element (print `first - `), the last element (print `last`) or neither first or last element (print `not first or last -`). E.g. the expected output would be (`first - not first or last - not first or last - last`).  
-  Answer:
+  **Answer:**  
   ```javascript
   // your code here
   ```
 
 11. Print all numbers from 15 - 0 to the console using a for loop in JS.  
-  Answer:
+  **Answer:**  
   ```javascript
   // your code here
   ```
@@ -70,7 +70,7 @@ No cheating! Be open and honest about what you know.
   firstResult(10);
   ```
   
-  Answer: 
+  **Answer:** 
 
 13. Add the missing code to print "this is A" to the console by accessing the key from the JS object literal.
   ```javascript
@@ -78,7 +78,7 @@ No cheating! Be open and honest about what you know.
   console.log("*Youre code here*");
   ```
   
-  Answer:
+  **Answer:**  
   ```javascript
   // your code here
   ```
