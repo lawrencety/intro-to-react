@@ -24,7 +24,7 @@ No cheating! Be open and honest about what you know.
 10. Write a loop in Javascript, iterating over the array [1, 2, 3, 4] printing out if the element is eiter the first element (print `first - `), the last element (print `last`) or neither first or last element (print `not first or last -`). E.g. the expected output would be (`first - not first or last - not first or last - last`)
 11. Print all numbers from 15 - 0 do the command line using a for loop in JS.
 12. What would the console print in following example
-  ```
+  ```javascript
   function outer(input) {
     var a = inout;
     
@@ -39,7 +39,7 @@ No cheating! Be open and honest about what you know.
   firstResult(10);
   ```
 13. Add the missing code to print "this is A" to the console by accessing the key from the JS object literal.
-  ```
-  var someObject = {b : "some test", a : "this is A"}
+  ```javascript
+  var someObject = {b : "some test", a : "this is A"};
   console.log("*Youre code here*");
   ```
