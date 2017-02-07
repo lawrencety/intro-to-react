@@ -22,16 +22,16 @@ No cheating! Be open and honest about what you know.
   **Answer:** 
 
 4. How would you create a new folder named `testFolder` with the command line?  
-  **Answer:** `command`
+  **Answer:** 
 
 5. How would you enter this folder?  
-  **Answer:** `command`
+  **Answer:** 
 
 6. Given you are now in this folder, how would you check if git has already been initialized in that folder?  
-  **Answer:** `command`
+  **Answer:** 
 
 7. If git has not yet been added to that folder, how would you add it?  
-   **Answer:** `command`
+   **Answer:** 
 
 8. Which industry vertical are you interested in and why?  
    **Answer:** 
