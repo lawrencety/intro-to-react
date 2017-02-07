@@ -38,7 +38,9 @@ No cheating! Be open and honest about what you know.
   var firstResult = outer(9);
   firstResult(10);
   ```
+
 13. Add the missing code to print "this is A" to the console by accessing the key from the JS object literal.
+
   ```javascript
   var someObject = {b : "some test", a : "this is A"};
   console.log("*Youre code here*");
