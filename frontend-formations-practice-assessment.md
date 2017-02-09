@@ -57,7 +57,7 @@ No cheating! Be open and honest about what you know.
 12. What would the console print in following example
   ```javascript
   function outer(input) {
-    var a = inout;
+    var a = input;
     
     function inner(multiplier) {
       console.log(a * multiplier);
