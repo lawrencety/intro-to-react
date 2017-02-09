@@ -42,7 +42,7 @@ No cheating! Be open and honest about what you know.
   // your code here
   ```
 
-10. Write a loop in Javascript, iterating over the array [1, 2, 3, 4] printing out if the element is eiter the first element (print `first - `), the last element (print `last`) or neither first or last element (print `not first or last -`). E.g. the expected output would be (`first - not first or last - not first or last - last`).  
+10. Write a loop in Javascript, iterating over the array [1, 2, 3, 4] printing out if the element is either the first element (print `first - `), the last element (print `last`) or neither first or last element (print `not first or last -`). E.g. the expected output would be (`first - not first or last - not first or last - last`).  
   **Answer:**  
   ```javascript
   // your code here
