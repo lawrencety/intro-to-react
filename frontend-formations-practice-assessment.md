@@ -8,7 +8,7 @@ No cheating! Be open and honest about what you know.
 
 # Practice Questions
 
-1. Which HTML 5 tag would you use for semantically correctly wrap your page navigation?  
+1. Which HTML 5 tag would you use to semantically wrap your page navigation?  
   **Answer:** 
 
 2. What is the difference between a `<div>` and a `<span>` in HTML?  
