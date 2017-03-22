@@ -37,22 +37,22 @@ No cheating! Be open and honest about what you know.
    **Answer:** 
 
 9. Using Javascript, please write a function foo, that takes two arguments, an array and a number, and returns true if the length of the array is equal to the second argument? E.g. `foo([1, 2, 3], 3)` would return true.  
-  **Answer:**  
-  ```javascript
-  // your code here
-  ```
+    **Answer:**  
+    ```javascript
+    // your code here
+    ```
 
 10. Write a loop in Javascript, iterating over the array [1, 2, 3, 4] printing out if the element is either the first element (print `first - `), the last element (print `last`) or neither first or last element (print `not first or last -`). E.g. the expected output would be (`first - not first or last - not first or last - last`).  
-  **Answer:**  
-  ```javascript
-  // your code here
-  ```
+    **Answer:**  
+    ```javascript
+    // your code here
+    ```
 
 11. Print all numbers from 15 - 0 to the console using a for loop in JS.  
-  **Answer:**  
-  ```javascript
-  // your code here
-  ```
+    **Answer:**  
+    ```javascript
+    // your code here
+    ```
 
 12. What would the console print in following example
     ```javascript
