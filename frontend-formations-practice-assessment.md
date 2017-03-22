@@ -55,22 +55,22 @@ No cheating! Be open and honest about what you know.
   ```
 
 12. What would the console print in following example
-  ```javascript
-  function outer(input) {
-    var a = input;
-    
-    function inner(multiplier) {
-      console.log(a * multiplier);
+    ```javascript
+    function outer(input) {
+      var a = input;
+      
+      function inner(multiplier) {
+        console.log(a * multiplier);
+      }
+      
+      return inner;
     }
     
-    return inner;
-  }
+    var firstResult = outer(9);
+    firstResult(10);
+    ```
   
-  var firstResult = outer(9);
-  firstResult(10);
-  ```
-  
-  **Answer:** 
+    **Answer:** 
 
 13. Add the missing code to print "this is A" to the console by accessing the key from the JS object literal.
   ```javascript
