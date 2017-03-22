@@ -15,11 +15,11 @@ No cheating! Be open and honest about what you know.
   **Answer:** 
 
 3. What is wrong in the following HTML?
-  ```html
-  <div class="someClass" id="someID"></div>
-  <div class="someClass" id="someID"></div>
-  ```
-  **Answer:** 
+    ```html
+    <div class="someClass" id="someID"></div>
+    <div class="someClass" id="someID"></div>
+    ```
+    **Answer:** 
 
 4. How would you create a new folder named `testFolder` with the command line?  
   **Answer:** 
@@ -73,12 +73,12 @@ No cheating! Be open and honest about what you know.
     **Answer:** 
 
 13. Add the missing code to print "this is A" to the console by accessing the key from the JS object literal.
-  ```javascript
-  var someObject = {b : "some test", a : "this is A"};
-  console.log("*Your code here*");
-  ```
-  
-  **Answer:**  
-  ```javascript
-  // your code here
-  ```
+    ```javascript
+    var someObject = {b : "some test", a : "this is A"};
+    console.log("*Your code here*");
+    ```
+    
+    **Answer:**  
+    ```javascript
+    // your code here
+    ```
