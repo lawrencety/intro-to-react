@@ -11,7 +11,7 @@ No cheating! Be open and honest about what you know.
 1. Which HTML 5 tag would you use to semantically wrap your page navigation?  
   **Answer:** 
 
-2. What is the difference between a `<div>` and a `<span>` in HTML?  
+2. What is the difference between a block level and an inline element in HTML?  
   **Answer:** 
 
 3. What is wrong in the following HTML?
