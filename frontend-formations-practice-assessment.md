@@ -16,8 +16,12 @@ No cheating! Be open and honest about what you know.
 
 3. What is wrong in the following HTML?
     ```html
-    <div class="someClass" id="someID"></div>
-    <div class="someClass" id="someID"></div>
+    <div class="someClass" id="someID">
+      Check this out!
+    </div>
+    <div class="someClass" id="someID">
+      No, look at this instead.
+    </div>
     ```
     **Answer:** 
 
