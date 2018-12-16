@@ -16,16 +16,34 @@
         constructor(props){
           super(props);
           this.state = {
-            number : 1
+            number : 1,
+            module : 'Frontend Fundamentals',
+            section : 'Intro to React'
           }
+        }
+
+        increment(event) {
+          this.setState({
+            number: this.state.number + 1
+          })
+        }
+
+        decrement(event) {
+          this.setState({
+            number: Math.max(1, this.state.number - 1)
+          })
         }
 
         render() {
           return (
             <div>
               <img src={this.props.image} alt="Bloc Logo"/>
+              <h1>Current student: {this.props.name}</h1>
               <h2>Current program: {this.props.label}</h2>
               <h3>Current week: {this.state.number}</h3>
+                <button onClick={this.increment.bind(this)}>Increment</button>
+                <button onClick={this.decrement.bind(this)}>Decrement</button>
+              <p>Current progress: {this.state.module}- {this.state.section}</p>
               <p>Current Date: {this.props.date.toLocaleDateString()}</p>
             </div>
           );
@@ -35,6 +53,7 @@
       const info = {
         date: new Date(),
         image: 'https://avatars0.githubusercontent.com/u/1441485?v=4&s=280',
+        name: 'Lawrence Yen',
       }
 
       Counter.defaultProps = {
@@ -44,7 +63,8 @@
       ReactDOM.render(
         <Counter
           date={info.date}
-          image={info.image} />, document.getElementById('app')
+          image={info.image}
+          name={info.name} />, document.getElementById('app')
       );
     </script>
   </body>
